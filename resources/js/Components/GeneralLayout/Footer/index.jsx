@@ -38,8 +38,8 @@ export default function Footer() {
                 <Grid item xs={5}>
                     <Typography variant="h5" style={{ marginBottom: "10px" }}>LOCATIONS</Typography>
                     <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.156373776572!2d77.37654907460087!3d28.565066687142803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce59d9e7714c5%3A0x61683761eb3b21db!2sOpportunity%20Hubb%20%7C%20Best%20Placement%20%26%20IT%20Consultant%20in%20India%20*21%20All%20Service%20Provider%20*21!5e0!3m2!1sen!2sin!4v1716791343351!5m2!1sen!2sin" 
-                    width="200" height="100" style={{ border:0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14253.237845451118!2d83.38081369030651!3d26.73449904206222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399143f250b12d7d%3A0x7a3b1576e9a008c4!2sNauka%20vihar!5e0!3m2!1sen!2sin!4v1716806643298!5m2!1sen!2sin"
+width="200" height="100" style={{ border:0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 
                     </iframe>
                     <Typography>A 20, Ground Floor, Rajouri Garden</Typography>
